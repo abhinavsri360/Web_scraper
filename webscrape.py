@@ -22,7 +22,7 @@ f = open(filename, "w")
 header = "index, state, cases, recovered, dead\n"
 f.write(header)
 
-for i in range (1,34):
+for i in range (1,33):
 	lol = containers[i].findAll("td")
 	index = str(i)
 	state = lol[1].text
@@ -44,9 +44,8 @@ with open(csvfilepath) as csvFile:
 		index = csvRow["index"]
 		data[index] = csvRow
 
-root = {}
-root["corona"] = data
+root = data
 
 # Write data to JSON
 with open(jsonfilepath, "w") as jsonFile:
-	jsonFile.write(json.dumps(root))
+	jsonFile.write(json.dumps(root, indent=4))
