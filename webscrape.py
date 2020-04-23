@@ -34,7 +34,7 @@ for i in range (1,33):
 f.close()
 
 csvfilepath = "cases.csv"
-jsonfilepath = "corona.js"
+jsonfilepath = "corona.json"
 
 # Read csv and add data to dictionary
 data = {}
