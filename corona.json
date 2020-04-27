@@ -9,8 +9,8 @@
     {
         "index": "2",
         "state": "Andhra Pradesh",
-        "cases": "1061",
-        "recovered": "171",
+        "cases": "1097",
+        "recovered": "231",
         "dead": "31"
     },
     {
@@ -24,21 +24,21 @@
         "index": "4",
         "state": "Assam",
         "cases": "36",
-        "recovered": "19",
+        "recovered": "27",
         "dead": "1"
     },
     {
         "index": "5",
         "state": "Bihar",
-        "cases": "243",
-        "recovered": "46",
+        "cases": "274",
+        "recovered": "56",
         "dead": "2"
     },
     {
         "index": "6",
         "state": "Chandigarh",
-        "cases": "28",
-        "recovered": "15",
+        "cases": "30",
+        "recovered": "17",
         "dead": "0"
     },
     {
@@ -51,8 +51,8 @@
     {
         "index": "8",
         "state": "Delhi",
-        "cases": "2625",
-        "recovered": "869",
+        "cases": "2918",
+        "recovered": "877",
         "dead": "54"
     },
     {
@@ -65,9 +65,9 @@
     {
         "index": "10",
         "state": "Gujarat",
-        "cases": "3071",
-        "recovered": "282",
-        "dead": "133"
+        "cases": "3301",
+        "recovered": "313",
+        "dead": "151"
     },
     {
         "index": "11",
@@ -86,28 +86,28 @@
     {
         "index": "13",
         "state": "Jammu and Kashmir",
-        "cases": "494",
-        "recovered": "112",
+        "cases": "523",
+        "recovered": "137",
         "dead": "6"
     },
     {
         "index": "14",
         "state": "Jharkhand",
-        "cases": "67",
+        "cases": "82",
         "recovered": "13",
         "dead": "3"
     },
     {
         "index": "15",
         "state": "Karnataka",
-        "cases": "500",
-        "recovered": "158",
-        "dead": "18"
+        "cases": "503",
+        "recovered": "182",
+        "dead": "19"
     },
     {
         "index": "16",
         "state": "Kerala",
-        "cases": "457",
+        "cases": "458",
         "recovered": "338",
         "dead": "4"
     },
@@ -122,15 +122,15 @@
         "index": "18",
         "state": "Madhya Pradesh",
         "cases": "2096",
-        "recovered": "210",
-        "dead": "99"
+        "recovered": "302",
+        "dead": "103"
     },
     {
         "index": "19",
         "state": "Maharashtra",
-        "cases": "7628",
+        "cases": "8068",
         "recovered": "1076",
-        "dead": "323"
+        "dead": "342"
     },
     {
         "index": "20",
@@ -156,8 +156,8 @@
     {
         "index": "23",
         "state": "Odisha",
-        "cases": "94",
-        "recovered": "33",
+        "cases": "103",
+        "recovered": "35",
         "dead": "1"
     },
     {
@@ -170,28 +170,28 @@
     {
         "index": "25",
         "state": "Punjab",
-        "cases": "298",
-        "recovered": "67",
-        "dead": "17"
+        "cases": "313",
+        "recovered": "71",
+        "dead": "18"
     },
     {
         "index": "26",
         "state": "Rajasthan",
-        "cases": "2083",
-        "recovered": "493",
+        "cases": "2185",
+        "recovered": "518",
         "dead": "33"
     },
     {
         "index": "27",
         "state": "Tamil Nadu",
-        "cases": "1821",
-        "recovered": "960",
-        "dead": "23"
+        "cases": "1885",
+        "recovered": "1020",
+        "dead": "24"
     },
     {
         "index": "28",
         "state": "Telengana",
-        "cases": "991",
+        "cases": "1002",
         "recovered": "280",
         "dead": "26"
     },
@@ -205,22 +205,22 @@
     {
         "index": "30",
         "state": "Uttarakhand",
-        "cases": "48",
-        "recovered": "26",
+        "cases": "50",
+        "recovered": "28",
         "dead": "0"
     },
     {
         "index": "31",
         "state": "Uttar Pradesh",
-        "cases": "1793",
-        "recovered": "261",
-        "dead": "27"
+        "cases": "1868",
+        "recovered": "289",
+        "dead": "29"
     },
     {
         "index": "32",
         "state": "West Bengal",
-        "cases": "611",
+        "cases": "649",
         "recovered": "105",
-        "dead": "18"
+        "dead": "20"
     }
 ]
